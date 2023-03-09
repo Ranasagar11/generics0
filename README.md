@@ -1,1 +1,1 @@
-# generics0
+# java-training-exercises
